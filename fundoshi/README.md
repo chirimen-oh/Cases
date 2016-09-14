@@ -1,9 +1,12 @@
 ## README
 
-name:fundoshi
-author:D.F.Mac. @TripArts Music
-version:0.0
-status:WIP
+---
+name: fundoshi
+author: D.F.Mac. @TripArts Music
+version: 0.0
+status: WIP
+---
+
 
 ## desc
 
