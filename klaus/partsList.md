@@ -15,6 +15,6 @@
 |:---|---|---|---:|:---:|
 | なべ小ねじ | 15mm | M2:2mm | 3 | https://www.monotaro.com/p/0550/6977/ |
 | POM 六角両雌ねじスペーサー AS(ジュラコン)(パック品) | 3mm | M2:2mm | 9 | https://www.monotaro.com/p/4226/3207/ |
-| SPC-P 樹脂ねじ(PC/十字穴付きなべ小ねじ) | 6mm | M2:2mm | 3 | https://www.monotaro.com/p/4926/4993/ |
+| SPC-P 樹脂ねじ(PC/十字穴付きなべ小ねじ) | 6mm | M2:2mm | 2 | https://www.monotaro.com/p/4926/4993/ |
 | (+)鍋小ネジ(ポリカーボネート(透明))  | 8mm | M2:2mm | 1 | https://www.monotaro.com/p/3579/5261/ |
 | 六角ナット 2種(ステンレス)   | 1.6mm | M2:2mm | 2 | https://www.monotaro.com/p/4221/7524/ |
