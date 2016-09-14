@@ -1,5 +1,5 @@
 ---
-name: fundoshi
+case name: fundoshi
 author: D.F.Mac. @TripArts Music
 version: 0.0
 status: WIP
