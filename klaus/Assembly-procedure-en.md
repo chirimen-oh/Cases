@@ -1,5 +1,5 @@
-## 組み立て手順
-1. 部品について
+## Assembly Steps
+1. About Parts
   * [Parts Lists](partsList-en.md) is Referred.
 1. A board and acrylic parts are lined up.
 ![chirimen_dev_conf](img/01.jpg)
