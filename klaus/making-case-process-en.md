@@ -1,4 +1,4 @@
-## 試作ケース製作プロセス
+## Proto Type Case Making Process
 1. Case is designed by adobe illustrator.
 1. Design Data is Exporting SVG Files type.
 1. The material : Acrylic board The thickness is 2mm stand by.

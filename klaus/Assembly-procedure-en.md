@@ -36,7 +36,7 @@
 ![chirimen_dev_conf](img/17.jpg)
 1. Reversed, Remaining these 15mm length screw is putted in Board (front : Logo).
 ![chirimen_dev_conf](img/18.jpg)
-1. One More Reversed, , Remaining these  White Nuts is putted on these 15mm length screw(2).
+1. One More Reversed, Remaining these  White Nuts is putted on these 15mm length screw(2).
 ![chirimen_dev_conf](img/19.jpg)
 1. At Last Reversed, Case is Assemblying to Finish.
 ![chirimen_dev_conf](img/20.jpg)
