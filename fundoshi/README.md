@@ -1,5 +1,3 @@
-## README
-
 ---
 name: fundoshi
 author: D.F.Mac. @TripArts Music
