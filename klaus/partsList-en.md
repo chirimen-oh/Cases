@@ -4,9 +4,9 @@
 
 | parts | number of need |
 |:---|---|
-| 天板（表：ロゴ） | 1 |
-| 天板（裏：排熱ダクト） | 1 |
-| サイドステー | 2 |
+| Acrylic Board (front : Logo) | 1 |
+| Acrylic Board (back : Exhaust heat duct) | 1 |
+| Side stay | 2 |
 
 
 ### ◆ Assembly parts
