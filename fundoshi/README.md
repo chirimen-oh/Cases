@@ -1,10 +1,9 @@
 ---
 case name: fundoshi
-author: D.F.Mac. @TripArts Music
+designer: D.F.Mac. (H.Kodama)
 version: 0.0
 status: WIP
 ---
-
 
 ## desc
 
@@ -13,11 +12,15 @@ status: WIP
 
 ## design
 
-T.B.D.
+Eagle 7.5で作成しています。詳細は下記を参照ください。
+
+- [Schematic](./eagle/CHIRIMEN-Fundoshi.sch)
+- [board](./eagle/CHIRIMEN-Fundoshi.brd)
 
 ## License
 
-T.B.D.
+[CHIRIME License](https://chirimen.org/license/)を参照ください。
+
 
 
 
