@@ -1,3 +1,50 @@
+---
+case name: kimono
+designer: klaus (T.Fujieda)
+version: 1.0
+status: Publish
+---
+
+## desc
+
+`kimono`はコンパクトなケースです。
+アクリルボード4枚とボルト・ナットを使用してタフながら、各コネクタやピンにアクセスしやすくデザインされています。
+
+## design
+
+Illustraorで作成しています。
+
+- [Illustraor .ai](./chirimen_case4.ai)
+- [Illustraor .svg](./chirimen_case4.svg)
+
+## Make
+
+組み立て図解です。
+
+- [jpg](./chirimen_case_build.jpg)
+- [svg](./chirimen_case_build.svg)
+
+
+
+### Parts (T.B.D.)
+
+組み立てには下記パーツが必要です。
+
+- ボルト(2mm径) 長さ (15mm) ×3
+- ボルト(2mm径) 長さ (8mm) ×1
+- ボルト(2mm径) 長さ (6mm) ×2
+- ナット(2mm径) 長さ (1.6mm) ×2
+- ナット(2mm径) 長さ (3mm) ×9
+2mm径長さ15mmのボルトは金属製しかないようです
+
+## License
+
+[Creative Commons License BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
+CHIRIMENの商標使用については、[CHIRIME License](https://chirimen.org/license/)を参照ください。
+
+### Assembly (T.B.D.)
+
+
 ## README English
 * Proto Type Case Making Process : [making-case-process-en.md](making-case-process-en.md)
 * Parts List : [partsList-en.md](partsList-en.md)
