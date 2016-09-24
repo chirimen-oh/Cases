@@ -11,7 +11,7 @@ status: Publish
 
 アクリルボード4枚とボルト・ナットを使用してタフながら、各コネクタやピンにアクセスしやすくデザインされています。
 
-case name「kimono」は、[D.F.Mac.](@dfmac)様に拝名をいただきました。
+case name「kimono」は、 @dfmac 様に拝名をいただきました。
 
 ## design
 
