@@ -5,6 +5,8 @@ version: 0.1
 status: Draft
 ---
 
+![fundosi-image](./fundoshi.jpg)
+
 ## desc
 
 `fundoshi`はPCB1枚だけのシンプルなケースです。
