@@ -25,17 +25,7 @@ Eagle 7.5で作成しています。詳細は下記を参照ください。
 
 ## Make
 
-### Parts (T.B.D.)
-
-組み立てには下記パーツが必要です。(現在選定中)
-
-- ボルト(2mm径) 長さ (T.B.D.)
-- ナット(2mm径) 長さ (T.B.D.)
-- スペーサー(2mm径)(T.B.D.)
-
-### Assembly (T.B.D.)
-
-組み立て方法を書く予定
+[CHIRIMENにfundoshiを装着する (fabble)](http://fabble.cc/tadfmac/chirimen-fundoshi)
 
 ## License
 
