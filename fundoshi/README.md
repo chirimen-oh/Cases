@@ -23,7 +23,7 @@ Eagle 7.5で作成しています。詳細は下記を参照ください。
 
 [Elecrow](https://www.elecrow.com/)用に出力したgarberファイルです。
 
-- [v0.1](./garber-elecrow/v0.11)
+- [v0.11](./garber-elecrow/v0.11)
 
 ## Make
 
