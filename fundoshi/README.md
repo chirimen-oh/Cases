@@ -1,7 +1,7 @@
 ---
 case name: fundoshi
 designer: D.F.Mac. (H.Kodama)
-version: 0.1
+version: 0.11
 status: Draft
 ---
 
@@ -16,14 +16,14 @@ status: Draft
 
 Eagle 7.5で作成しています。詳細は下記を参照ください。
 
-- [board(v0.1)](./eagle/CHIRIMEN-Fundoshi.brd)
-- [Schematic(v0.1)※ブランクデータです](./eagle/CHIRIMEN-Fundoshi.sch)
+- [board(v0.11)](./eagle/CHIRIMEN-Fundoshi.brd)
+- [Schematic(v0.11)※ブランクデータです](./eagle/CHIRIMEN-Fundoshi.sch)
 
 ### garber files
 
 [Elecrow](https://www.elecrow.com/)用に出力したgarberファイルです。
 
-- [v0.1](./garber-elecrow/v0.1)
+- [v0.1](./garber-elecrow/v0.11)
 
 ## Make
 
