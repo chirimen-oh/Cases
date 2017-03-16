@@ -1,7 +1,7 @@
 ---
 case name: fundoshi
 designer: D.F.Mac. (H.Kodama)
-version: 0.11
+version: 0.12
 status: Draft
 ---
 
